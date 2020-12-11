@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAM_semana07_CL</string>
+    <string name="title_activity_notas">MainActivity</string>
+    <string name="title_Notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_notifications">Mi perfil</string>
+    <string name="notas">notas</string>
+    <string name="title_notas">notas</string>
+    <string name="title_Fcvoritas">Favoritas</string>
+    <string name="title__user_profile">My profile</string>
+</resources>
